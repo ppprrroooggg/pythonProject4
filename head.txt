@@ -1,0 +1,19 @@
+Элементарные структуры
+данных: 2.1 - Стек 2.2 -
+Использование списка 2.3 -
+Вычисление арифметических
+выражений с помощью стека 2.4
+- Проверка скобочных
+выражений
+
+Понимание принципов работы списков и стека, умение использовать
+и реализовывать работу со списками и стеком на выбранном языке программирования
+
+
+Про структуры данных: https://practicum.yandex.ru/blog/10-osnovnyh-struktur-dannyh/#:~:text=Структура%20данных%20—%20это%20способ,данные%20с%20применением%20алгоритмов%20программирования
+Про стек: https://skillbox.ru/media/code/prostymi-slovami-chto-takoe-stek-i-kak-on-ustroen/#stk-3
+Про списки: https://skillbox.ru/media/code/spiski-v-python-chto-eto-takoe-i-kak-s-nimi-rabotat/
+Про типизацию: https://tproger.ru/explain/tipizacija-jazykov-programmirovanija-razbiraemsja-v-osnovah
+Про вычисление арифметических выражений с помощью стека: https://habr.com/ru/articles/596925/
+https://algorithmspython.wordpress.com/2013/02/01/стек-stack/
+https://translated.turbopages.org/proxy_u/en-ru.ru.21b727f9-658d7dad-a6849c76-74722d776562/https/www.geeksforgeeks.org/arithmetic-expression-evalution/
